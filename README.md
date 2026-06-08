@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Kashyap%20Trivedi&fontSize=50&fontColor=ffffff&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=Kashyap%20Trivedi&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/kashyaptrivedii">
@@ -154,8 +154,6 @@ kashyap = {
 <img src="https://streak-stats.demolab.com?user=Kashyap-Trivedi&theme=tokyonight" width="49%" />
 
 </div>
-
----
 
 ## 💼 Work History
 
