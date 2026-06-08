@@ -253,15 +253,13 @@ class KashyapTrivedi:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kashyap-Trivedi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" width="48%"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Kashyap-Trivedi&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117" width="48%"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=Kashyap-Trivedi&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashyap-Trivedi&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="38%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashyap-Trivedi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b" width="58%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashyap-Trivedi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b" width="100%"/>
 
 <br/><br/>
 
